@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="no_internet_connection">No Internet</string>
+    <string name="no_new_articles">No news found or The Guardian servers are down.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Search Settings</string>
+
+    <string name="settings_query_label">Search TheGuardian for</string>
+    <string name="settings_query_key">query</string>
+    <string name="settings_query_default" >Google</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key">order_by</string>
+    <string name="settings_order_by_default">@string/settings_order_by_relevance_value</string>
+
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value">relevance</string>
+
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" >newest</string>
+
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" >oldest</string>
+
+
+</resources>
